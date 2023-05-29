@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1685254488 source:c:\users\aleja\onedrive\escritorio\entrega final proyecto estructuras\biginteger.cpp
+	"BigInteger.h"
+	<algorithm>
+
+1685306154 c:\users\aleja\onedrive\escritorio\entrega final proyecto estructuras\biginteger.h
+	<iostream>
+	<vector>
+	<string>
+	<list>
+
+1685313681 source:c:\users\aleja\onedrive\escritorio\entrega final proyecto estructuras\main2.cpp
+	"BigInteger.h"
+
+1685313683 source:c:\users\aleja\onedrive\escritorio\entrega final proyecto estructuras\main.cpp
+	"BigInteger.h"
+
+1685305870 source:c:\users\aleja\onedrive\escritorio\entrega final proyecto estructuras\biggersmaller.cpp
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+
